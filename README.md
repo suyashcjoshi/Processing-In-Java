@@ -23,3 +23,7 @@ The processing sketch lives inside of App.java class that you can modify just li
 Feel free to make change to the processing helper methods and after saving run `mvn clean package exec:java` to see the changes in effect.
 
 ![Processing Sketch Screenshot](https://raw.githubusercontent.com/suyashjoshi/Processing-In-Java/main/screenshot.png)
+
+### Share and Like
+
+If you found this project helpfu,  please consider giving it a star and feel free to follow me for more such tutotials. 
