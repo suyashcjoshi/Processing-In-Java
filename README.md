@@ -24,6 +24,6 @@ Feel free to make change to the processing helper methods and after saving run `
 
 ![Processing Sketch Screenshot](https://raw.githubusercontent.com/suyashjoshi/Processing-In-Java/main/screenshot.png)
 
-### Share and Like
+### Share & Star
 
 If you found this project helpful,  please consider giving it a *star* and feel free to follow me for more such tutorials. 
