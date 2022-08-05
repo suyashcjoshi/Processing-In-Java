@@ -16,8 +16,7 @@
   </repositories>
 
   <name>p4j</name>
-  <!-- FIXME change it to the project's website -->
-  <url>http://www.example.com</url>
+  <url>https://github.com/suyashjoshi/Processing-In-Java</url>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
