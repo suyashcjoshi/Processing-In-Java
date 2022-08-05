@@ -20,4 +20,6 @@ mvn exec:java
 
 The processing sketch lives inside of App.java class that you can modify just like a normal processing sketch. The only thing to keep in mind is the main method that has the line `PApplet.main("dev.suyashjoshi.creativecode.App");` which points to the fully qualified class name of the project so make sure to update that if you change it for your own project.
 
+Feel free to make change to the processing helper methods and after saving run `mvn clean package exec:java` to see the changes in effect.
+
 ![Processing Sketch Screenshot](https://raw.githubusercontent.com/suyashjoshi/Processing-In-Java/main/screenshot.png)
