@@ -26,4 +26,4 @@ Feel free to make change to the processing helper methods and after saving run `
 
 ### Share and Like
 
-If you found this project helpfu,  please consider giving it a star and feel free to follow me for more such tutorials. 
+If you found this project helpful,  please consider giving it a *star* and feel free to follow me for more such tutorials. 
