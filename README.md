@@ -4,7 +4,7 @@ Running a processing sketch using Java SE as Maven QuickStart project. Maven dow
 
 ## Pre-Requisites
 
-1. Java SDK version 11+ (recommened Java SDK 17)
+1. JDK version 11+ (recommened JDK 17)
 2. Maven build tool
 3. Processing `core.jar` downloaded with help of maven when you run the following commands
 
