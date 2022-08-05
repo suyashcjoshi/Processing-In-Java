@@ -25,13 +25,14 @@
   </properties>
 
   <dependencies>
-  <!--JUNIT 4 JAR file-->
+    <!--JUnit 4 JAR file-->
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
       <version>4.11</version>
       <scope>test</scope>
     </dependency>
+     <!--Processing 4 JAR file-->
     <dependency>
       <groupId>com.github.micycle1</groupId>
       <artifactId>processing-core-4</artifactId>
