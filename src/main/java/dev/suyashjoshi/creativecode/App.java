@@ -27,7 +27,7 @@ public class App extends PApplet{
     }
 	
     public void draw(){
-        ellipse(mouseX, mouseY, 50, 50);
+        ellipse(mouseX, mouseY, 150, 150);
     }
 	
     public void mousePressed(){
